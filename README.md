@@ -1,7 +1,7 @@
 # Bikesharing
 ##  Project Overview
 <p align="center">
- <img width="400" height="300" src="https://github.com/jacquie0583/bikesharing/blob/main/image%208.png.jpg">
+ <img width="400" height="300" src="https://github.com/jacquie0583/bikesharing/blob/main/image%2012.jpg">
 </p
   
   
@@ -14,6 +14,12 @@
    •	Illustrate the number of bike trips for each type of user and gender for each day of the week.
  
    • Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+ 
+<p align="center">
+  <img width="400" height="300" src="https://github.com/jacquie0583/bikesharing/blob/main/image%209.png">
+</p>
+ 
+ 
   
 [NY City Bikeshare dashboard]( https://public.tableau.com/views/NewYorkCitiBankStory/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
   
@@ -70,7 +76,7 @@
     •	Those rides are mostly taken by male users.
 
 <p align="center">
-<img width="400" height="400" src="https://github.com/jacquie0583/bikesharing/blob/main/image%206.png">
+<img width="800" height="500" src="https://github.com/jacquie0583/bikesharing/blob/main/image%206.png">
 </p>
 
 
@@ -92,16 +98,18 @@
    •	Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
 <p align="center">
-<img width="400" height="400" src="https://github.com/jacquie0583/bikesharing/blob/main/image%208.png.jpg">
+<img width="800" height="400" src="https://github.com/jacquie0583/bikesharing/blob/main/image%208.png.jpg">
 </p>
 
    9.	 August Peak Hours
-      •	Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
-      •	The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
+   
+   •	Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
+      
+   •	The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 
 <p align="center">
-<img width="300" height="300" src="https://github.com/jacquie0583/bikesharing/blob/main/image%2011.png">
+<img width="800" height="400" src="https://github.com/jacquie0583/bikesharing/blob/main/image%2011.png">
 </p>
 
 
