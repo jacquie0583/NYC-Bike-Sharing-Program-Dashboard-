@@ -3,7 +3,9 @@
  <img width="400" height="300" src="https://github.com/jacquie0583/bikesharing/blob/main/image%208.png.jpg">
 </p
   
-#  Project Overview
+ 
+# Project Overview
+ 
 The project presents an analysis of New York Citi Bike data, using data visualization tools to present to the investors for exploration of the viability of a bike-sharing business in Des Moines.
 For this analysis, I utilized Pandas to change the "tripduration" column from an integer to a datetime datatype. Using the converted datatype to create a set of visualizations to demonstrate the following:
    •	Illustrate the length of time that bikes are checked out for all riders and genders
@@ -20,7 +22,7 @@ For this analysis, I utilized Pandas to change the "tripduration" column from an
 ##  Results  Deployed Tableau Analysis
 ###  New York Citi Bike data visualizations for August 2019
    1.	Change Trip Duration to a Datetime Format
-      Using Python and Pandas functions, the "tripduration" column was converted from an integer to a datetime         datatype to get the time in hours, minutes, and seconds (00:00:00). After the convertion of the                 "tripduration" column to a datetime dataytpe,  the DataFrame was exported as a CSV file to use for the           trip analysis.
+      Using Python and Pandas functions, the "tripduration" column was converted from an integer to a datetime datatype to get the time in hours, minutes, and seconds                   (00:00:00). After the convertion of the "tripduration" column to a datetime dataytpe, the DataFrame was exported as a CSV file to use for the trip analysis.
   
 <p align="center">
 <img width="800" height="600" src="https://github.com/jacquie0583/bikesharing/blob/main/Image%201.png">
@@ -34,7 +36,7 @@ For this analysis, I utilized Pandas to change the "tripduration" column from an
 
   3.	Create the Checkout Times for Users
   
-     •	Bikes are mostly checked out for 4 to 6 hours.
+    •	Bikes are mostly checked out for 4 to 6 hours.
 
 </p>
 <p align="center">
@@ -101,7 +103,7 @@ For this analysis, I utilized Pandas to change the "tripduration" column from an
 
 
 <p align="center">
-<img width="400" height="400" src="https://github.com/jacquie0583/bikesharing/blob/main/image%2011.png">
+<img width="300" height="300" src="https://github.com/jacquie0583/bikesharing/blob/main/image%2011.png">
 </p>
 
 
