@@ -25,7 +25,8 @@
   
 ##  Resources
    1.	Data Source: Citi Bike Data, 201908-citibike-tripdata.csv.zip
-   2.	Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2
+   2.	Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2, Visual Studio Code 1.50.0, CSV
+   
   
 ##  Results  Deployed Tableau Analysis
 ###  New York Citi Bike data visualizations for August 2019
